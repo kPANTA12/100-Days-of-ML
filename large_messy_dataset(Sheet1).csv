@@ -1,0 +1,51 @@
+ID,Name,Age,City,Salary,Join_Date,Email,Department,Non_ usable column,Phone_number
+1,George,40,Lalitpur,thousand,2021-01-10,bob@gmail,,701,710-309-4329
+2,Tom,,, NaN ,2020-13-01,luna@gmail.com,Sales,180,978|110|5804
+3,Isha, 45 ,,70000,2021-01-10,Luna@mail,,25,544/6218898
+4,Oli,, ,55k,2021-01-10,Nina@mail,HR,603,4258660422
+5,George/,,Birgunj,70000,2020-13-01,Jake@mail,Finance,77,630-179-5207
+6,Nina_,NaN,Butwal,thousand,2020-13-01,Eve@mail,Sales,957,NaN
+7,David, 45 ,Biratnagar, NaN ,2020-15-10,david@mail.com,HR,659,374|399|7652
+8,/Mina,40,,60000,2020-13-01,quincy@gmail.com,IT,148,3145713180
+9,David,30,,,2020-13-01,,Sales,374,2284793231
+10,Jake,25,Lalitpur,50000,,David@mail,IT,111,3890860662
+11,Quincy_...,30,,60000,2021/03/40,Tom@mail,IT,809,2884619022
+12,Paul//,35,Pokhara,,2022/07/20,,Finance,478,8859371015
+13,Nina,40,Butwal,thousand,2020-13-01,frank@gmail,HR,438,1607104788
+14,...George,30,Biratnagar,55k,2020-13-01,charlie@yahoo.com,Sales,578,9364984317
+15,Isha,,Biratnagar,,2021-01-10,Eve@mail,Sales,321,7150386033
+16,Frank,, ,70000,2020/03/15,,Sales,197,1349428285
+17,Eve,,, NaN ,2020-15-10,Luna@,HR,631,4163922846
+18,Alice,35,Birgunj,70000,2021-01-10,kiran@mail.com,HR,511,731/130/9623
+19,_Frank,30, ,55000,2020-13-01,quincy@gmail,HR,692,811/964/2824
+20,Isha,,,55000,,nina@gmail.com,Finance,571,8235177960
+21,Nina,35, ,thousand,2022/07/20,hira@gmail,IT,300,1711156370
+22,Frank,25,Kathmandu, NaN ,2021/03/40,Jake@,Sales,374,8138371043
+23,Eve,thirty,Butwal,50000,2020-15-10,jake@gmail.com,Finance,807,504-101-8147
+24,Mina,NaN,,55000,15-06-2022,,HR,223,2093387181
+25,Nina,40,Biratnagar,50000,05/10/2020,oli@gmail,HR,115,2034539017
+26,Quincy,30,,thousand,2021/03/40,Bob@mail,HR,728,2203866556
+27,Ravi,NaN,,55000,05/10/2020,Kiran@mail,IT,69,3445714594
+28,Isha,,Butwal,60000,2021-01-10,charlie@yahoo.com,Finance,111,452-961-7827
+29,Frank,25,Butwal, NaN ,2020-13-01,,IT,156,8182230728
+30,Paul,35,,60000,15-06-2022,Ravi@mail,HR,449,6615729527
+31,Jake,thirty,Pokhara,60000,2021/03/40,,Finance,791,130/7080/451
+32,Frank,NaN, ,55000,2021/03/40,alice@yahoo.com,IT,239,8662045040
+33,Hira,,,60000,2021-01-10,Frank@mail,Finance,688,5334873741
+34,George,30, ,55k,2021-01-10,Nina@mail,,426,5151438113
+35,Isha,,,55k,2020/03/15,Kiran@mail,Sales,750,8124455397
+36,Isha, 45 ,,55000,2021-01-10,quincy@gmail,Finance,550,232-5594165
+37,Jake,,Birgunj,thousand,,,HR,794,4578906418
+38,Bob, 45 ,Kathmandu,55000,2021-01-10,Jake@mail,Sales,611,255-0581022
+39,Mina,NaN,Biratnagar,50000,2021-01-10,david@gmail,IT,37,3858923138
+40,Quincy,30,Butwal,70000,05/10/2020,Hira@mail,Sales,56,1913845444
+41,Quincy,40,Kathmandu,,2021/03/40,nina@mail.com,Finance,294,9536563089
+42,David,30, ,60000,15-06-2022,isha@yahoo.com,IT,170,7373451606
+43,Frank, 45 ,, NaN ,2020-15-10,Bob@mail,HR,517,1832335988
+44,Tom,30,Butwal,,05/10/2020,,HR,968,1698986783
+45,Alice,,,55k,05/10/2020,paul@yahoo.com,Sales,70,5816256602
+46,Kiran,35,Kathmandu,55000,15-06-2022,mina@yahoo.com,IT,987,2839187771
+47,Ravi,thirty,, NaN ,2021-01-10,Eve@,,679,9613799107
+48,Tom,NaN,Butwal,60000,,,IT,586,8404782131
+49,Tom,thirty,,,,George@,,132,7168608910
+50,Sam,30,Lalitpur,,2022/07/20,,Finance,191,9068695914
